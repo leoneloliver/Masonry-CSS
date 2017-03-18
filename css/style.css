@@ -1,18 +1,17 @@
-body{
-  background: #efefef;
-  padding:20px;
+body {
+    background: #efefef;
+    padding: 20px;
 }
-.masonry { /* Masonry container */
+.masonry {
+    /* Masonry container */
     column-count: 4;
     column-gap: 1em;
-  max-width: 1300px;
-  margin: 0 auto;
+    max-width: 1300px;
+    margin: 0 auto;
 }
-
 .item {
     display: inline-block;
-    background: #fff;
-/*     padding: 1.5em; */
+    background: #fff; 
     margin: 0 0 1.5em;
     width: 100%;
     box-sizing: border-box;
@@ -23,11 +22,12 @@ body{
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
 }
-.item .text-box{
-  padding: 1.5em; 
-  padding-top: 8px;
+.item .text-box {
+    padding: 1.5em;
+    padding-top: 8px;
 }
-img, iframe {
+img,
+iframe {
     max-width: 100%;
     height: auto;
     display: block;
