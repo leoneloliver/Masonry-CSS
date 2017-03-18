@@ -1,4 +1,7 @@
 # Masonry-CSS
 
+Pure CSS-only responsive masonry without making use of JavaScript or jQuery.
+Pinterest-like
 
-http://codepen.io/leoneloliver/full/ryYzoW/
+Live Demo [click here](http://codepen.io/leoneloliver/full/ryYzoW/) 
+
